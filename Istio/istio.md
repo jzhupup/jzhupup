@@ -37,3 +37,4 @@ stio 服务网格从逻辑上分为**数据平面**和**控制平面**。
 
 - **数据平面** 由一组智能代理（[Envoy](https://www.envoyproxy.io/)）组成，被部署为 Sidecar。这些代理负责协调和控制微服务之间的所有网络通信。它们还收集和报告所有网格流量的遥测数据。
 - **控制平面** 管理并配置代理来进行流量路由。
+https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4e724527-4bba-458d-9255-071171d2cda5%2FUntitled.png?table=block&id=1c130d01-502a-4900-bc43-5132cb1ccdb8&spaceId=12d5054f-b192-4e06-a447-1e626cf9c75e&width=2000&userId=44820bad-4a04-48ce-b26f-8529c97f2cb4&cache=v2
