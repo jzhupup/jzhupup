@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+准备做点事情！
 <!--
 **jzhupup/jzhupup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
